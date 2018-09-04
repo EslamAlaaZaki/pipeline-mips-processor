@@ -1,1 +1,2 @@
-# pipeline-mips-processor
+# pipeline-mips-processor 
+using verilog 
